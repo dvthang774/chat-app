@@ -15,7 +15,8 @@ dependencies:
   english_words: ^4.0.0
   provider: ^6.0.0
   flutter_riverpod: ^2.3.6
-  chat_gpt_sdk: ^2.2.4
+  chat_gpt_sdk: 2.2.4
+  speech_to_text: ^6.3.0
 
 dev_dependencies:
   flutter_test:

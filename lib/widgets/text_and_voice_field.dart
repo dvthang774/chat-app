@@ -35,7 +35,7 @@ class _TextAndVoiceFieldState extends ConsumerState<TextAndVoiceField> {
   @override
   void dispose() {
     _messageController.dispose();
-    _openAI.dispose();
+    // _openAI.dispose();
     super.dispose();
   }
 
